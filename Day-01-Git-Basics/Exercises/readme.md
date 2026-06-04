@@ -2,7 +2,7 @@
 
 > Complete these exercises in order. Each one builds on the previous. **Try before looking at solutions!**
 >
-> Solutions: [solutions.md](./solutions.md)
+> Solutions: [solutions.md](./solutions/readme.md)
 
 ---
 
